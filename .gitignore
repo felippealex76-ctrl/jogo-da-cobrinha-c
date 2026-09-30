@@ -1,0 +1,18 @@
+# Build (CMake)
+/build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Binários / objetos
+*.exe
+*.o
+*.obj
+
+# IDE (CLion / JetBrains)
+.idea/
+
+# Recorde salvo em tempo de execução
+recorde.txt
